@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80aca43f-7e3e-4f19-a99f-c2a5f55e2916" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tema5_1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tema5_1/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tema5_1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tema5_1/Hobby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tema5_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tema5_1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tema5_1/PersonAgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tema5_1/PersonNameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tema5_1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tema5_1/Unemployed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +24,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/alex_/OneDrive/Desktop/Teme/Teme/src/main/java/org/example"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/alex_/OneDrive/Desktop/Teme/Teme"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alex_\OneDrive\Desktop\Teme\Teme\src\main\java\org\example" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.tema5_2" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.org.example.tema5_2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.tema5_1.Main" />
       <module name="Teme" />
@@ -58,8 +50,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.tema5_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tema5_2.Main" />
+      <module name="Teme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tema5_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.tema5_2.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
