@@ -1,4 +1,4 @@
-package org.example.festival;
+package org.example.tema10;
 
 import java.util.Random;
 

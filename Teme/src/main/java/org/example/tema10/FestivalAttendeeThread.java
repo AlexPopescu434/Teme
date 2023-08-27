@@ -1,4 +1,4 @@
-package org.example.festival;
+package org.example.tema10;
 
 public class FestivalAttendeeThread extends Thread {
     private final FestivalGate gate;
